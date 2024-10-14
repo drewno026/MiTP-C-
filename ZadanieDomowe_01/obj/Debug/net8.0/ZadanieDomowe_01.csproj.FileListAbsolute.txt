@@ -1,0 +1,14 @@
+C:\Users\wikto\MiTP-C-\ZadanieDomowe_01\bin\Debug\net8.0\ZadanieDomowe_01.exe
+C:\Users\wikto\MiTP-C-\ZadanieDomowe_01\bin\Debug\net8.0\ZadanieDomowe_01.deps.json
+C:\Users\wikto\MiTP-C-\ZadanieDomowe_01\bin\Debug\net8.0\ZadanieDomowe_01.runtimeconfig.json
+C:\Users\wikto\MiTP-C-\ZadanieDomowe_01\bin\Debug\net8.0\ZadanieDomowe_01.dll
+C:\Users\wikto\MiTP-C-\ZadanieDomowe_01\bin\Debug\net8.0\ZadanieDomowe_01.pdb
+C:\Users\wikto\MiTP-C-\ZadanieDomowe_01\obj\Debug\net8.0\ZadanieDomowe_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\MiTP-C-\ZadanieDomowe_01\obj\Debug\net8.0\ZadanieDomowe_01.AssemblyInfoInputs.cache
+C:\Users\wikto\MiTP-C-\ZadanieDomowe_01\obj\Debug\net8.0\ZadanieDomowe_01.AssemblyInfo.cs
+C:\Users\wikto\MiTP-C-\ZadanieDomowe_01\obj\Debug\net8.0\ZadanieDomowe_01.csproj.CoreCompileInputs.cache
+C:\Users\wikto\MiTP-C-\ZadanieDomowe_01\obj\Debug\net8.0\ZadanieDomowe_01.dll
+C:\Users\wikto\MiTP-C-\ZadanieDomowe_01\obj\Debug\net8.0\refint\ZadanieDomowe_01.dll
+C:\Users\wikto\MiTP-C-\ZadanieDomowe_01\obj\Debug\net8.0\ZadanieDomowe_01.pdb
+C:\Users\wikto\MiTP-C-\ZadanieDomowe_01\obj\Debug\net8.0\ZadanieDomowe_01.genruntimeconfig.cache
+C:\Users\wikto\MiTP-C-\ZadanieDomowe_01\obj\Debug\net8.0\ref\ZadanieDomowe_01.dll
