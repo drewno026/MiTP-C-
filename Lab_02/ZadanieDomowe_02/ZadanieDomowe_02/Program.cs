@@ -71,15 +71,15 @@
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Podpunkt G");
+            Console.WriteLine("Podpunkt G(suma cyfr 123456)");
             int wynikG = SumOfDigits(123456);
             Console.WriteLine(wynikG);
 
-            Console.WriteLine("\nPodpunkt H");
+            Console.WriteLine("\nPodpunkt H(rozwiazanie rownania kwadratowego)");
             double wynikH = Solution(0, 2, -3);
             Console.WriteLine(wynikH);
 
-            Console.WriteLine("\nPodpunkt I");
+            Console.WriteLine("\nPodpunkt I(suma liczb podzielnych przez 7 do 40)");
             int wynikI = SumDivisibleBySeven(40);
             Console.WriteLine(wynikI);
         }
