@@ -30,7 +30,7 @@ namespace ZadanieDomowe_03
                 }
                 else
                 {
-                    Console.WriteLine("Number should be realistic");
+                    throw new ArgumentException("Expiration date must be a realistic year.");
                 }
             }
         }
