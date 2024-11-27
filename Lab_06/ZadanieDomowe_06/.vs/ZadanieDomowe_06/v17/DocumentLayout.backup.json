@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_06\\ZadanieDomowe_06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E56EBB4-78A8-48D0-A86B-FF8B00371013}|ZadanieDomowe_06\\ZadanieDomowe_06.csproj|c:\\users\\wikto\\onedrive\\pulpit\\metodyki i techniki programowaniac#\\githubc#\\mitp-c-\\lab_06\\zadaniedomowe_06\\zadaniedomowe_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E56EBB4-78A8-48D0-A86B-FF8B00371013}|ZadanieDomowe_06\\ZadanieDomowe_06.csproj|solutionrelative:zadaniedomowe_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E56EBB4-78A8-48D0-A86B-FF8B00371013}|ZadanieDomowe_06\\ZadanieDomowe_06.csproj|c:\\users\\wikto\\onedrive\\pulpit\\metodyki i techniki programowaniac#\\githubc#\\mitp-c-\\lab_06\\zadaniedomowe_06\\zadaniedomowe_06\\highestpeak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E56EBB4-78A8-48D0-A86B-FF8B00371013}|ZadanieDomowe_06\\ZadanieDomowe_06.csproj|solutionrelative:zadaniedomowe_06\\highestpeak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E56EBB4-78A8-48D0-A86B-FF8B00371013}|ZadanieDomowe_06\\ZadanieDomowe_06.csproj|c:\\users\\wikto\\onedrive\\pulpit\\metodyki i techniki programowaniac#\\githubc#\\mitp-c-\\lab_06\\zadaniedomowe_06\\zadaniedomowe_06\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E56EBB4-78A8-48D0-A86B-FF8B00371013}|ZadanieDomowe_06\\ZadanieDomowe_06.csproj|solutionrelative:zadaniedomowe_06\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Homework.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_06\\ZadanieDomowe_06\\ZadanieDomowe_06\\Homework.cs",
+              "RelativeDocumentMoniker": "ZadanieDomowe_06\\Homework.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_06\\ZadanieDomowe_06\\ZadanieDomowe_06\\Homework.cs",
+              "RelativeToolTip": "ZadanieDomowe_06\\Homework.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:43:38.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HighestPeak.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_06\\ZadanieDomowe_06\\ZadanieDomowe_06\\HighestPeak.cs",
+              "RelativeDocumentMoniker": "ZadanieDomowe_06\\HighestPeak.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_06\\ZadanieDomowe_06\\ZadanieDomowe_06\\HighestPeak.cs",
+              "RelativeToolTip": "ZadanieDomowe_06\\HighestPeak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:43:37.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_06\\ZadanieDomowe_06\\ZadanieDomowe_06\\Program.cs",
+              "RelativeDocumentMoniker": "ZadanieDomowe_06\\Program.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_06\\ZadanieDomowe_06\\ZadanieDomowe_06\\Program.cs*",
+              "RelativeToolTip": "ZadanieDomowe_06\\Program.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:39:27.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
