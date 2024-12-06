@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\sprawdzenie\\ZadanieDomowe_02\\",
+  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_02\\ZadanieDomowe_02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{736FE13B-54A6-40D3-BF0B-89910B86EAC8}|ZadanieDomowe_02\\ZadanieDomowe_02.csproj|c:\\users\\wikto\\onedrive\\pulpit\\metodyki i techniki programowaniac#\\sprawdzenie\\zadaniedomowe_02\\zadaniedomowe_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{736FE13B-54A6-40D3-BF0B-89910B86EAC8}|ZadanieDomowe_02\\ZadanieDomowe_02.csproj|c:\\users\\wikto\\onedrive\\pulpit\\metodyki i techniki programowaniac#\\githubc#\\mitp-c-\\lab_02\\zadaniedomowe_02\\zadaniedomowe_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{736FE13B-54A6-40D3-BF0B-89910B86EAC8}|ZadanieDomowe_02\\ZadanieDomowe_02.csproj|solutionrelative:zadaniedomowe_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\sprawdzenie\\ZadanieDomowe_02\\ZadanieDomowe_02\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_02\\ZadanieDomowe_02\\ZadanieDomowe_02\\Program.cs",
               "RelativeDocumentMoniker": "ZadanieDomowe_02\\Program.cs",
-              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\sprawdzenie\\ZadanieDomowe_02\\ZadanieDomowe_02\\Program.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_02\\ZadanieDomowe_02\\ZadanieDomowe_02\\Program.cs",
               "RelativeToolTip": "ZadanieDomowe_02\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowFEAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowFEAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T08:18:18.893Z",
               "EditorCaption": ""

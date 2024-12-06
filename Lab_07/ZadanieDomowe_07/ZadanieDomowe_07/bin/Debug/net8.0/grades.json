@@ -1,0 +1,9 @@
+{
+  "StudentName": "Jan Kowalski",
+  "Group": 0,
+  "Grades": {
+    "Matematyka": 4.5,
+    "Religia": 5,
+    "Fizyka": 3.5
+  }
+}

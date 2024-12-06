@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\Lab_02\\",
+  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0EE3BF1-3CFB-4094-A83C-C03B5CA8A0AF}|Lab_02\\Lab_02.csproj|c:\\users\\wikto\\onedrive\\pulpit\\metodyki i techniki programowaniac#\\lab_02\\lab_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0EE3BF1-3CFB-4094-A83C-C03B5CA8A0AF}|Lab_02\\Lab_02.csproj|c:\\users\\wikto\\onedrive\\pulpit\\metodyki i techniki programowaniac#\\githubc#\\mitp-c-\\lab_02\\lab_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0EE3BF1-3CFB-4094-A83C-C03B5CA8A0AF}|Lab_02\\Lab_02.csproj|solutionrelative:lab_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\Lab_02\\Lab_02\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_02\\Lab_02\\Program.cs",
               "RelativeDocumentMoniker": "Lab_02\\Program.cs",
-              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\Lab_02\\Lab_02\\Program.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_02\\Lab_02\\Program.cs",
               "RelativeToolTip": "Lab_02\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAASwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T08:59:10.523Z",
               "EditorCaption": ""

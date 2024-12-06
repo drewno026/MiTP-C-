@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wikto\\MiTP-C-\\ZadanieDomowe_01\\ZadanieDomowe_01.csproj": {}
+    "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_01\\ZadanieDomowe_01\\ZadanieDomowe_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wikto\\MiTP-C-\\ZadanieDomowe_01\\ZadanieDomowe_01.csproj": {
+    "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_01\\ZadanieDomowe_01\\ZadanieDomowe_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wikto\\MiTP-C-\\ZadanieDomowe_01\\ZadanieDomowe_01.csproj",
+        "projectUniqueName": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_01\\ZadanieDomowe_01\\ZadanieDomowe_01.csproj",
         "projectName": "ZadanieDomowe_01",
-        "projectPath": "C:\\Users\\wikto\\MiTP-C-\\ZadanieDomowe_01\\ZadanieDomowe_01.csproj",
+        "projectPath": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_01\\ZadanieDomowe_01\\ZadanieDomowe_01.csproj",
         "packagesPath": "C:\\Users\\wikto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wikto\\MiTP-C-\\ZadanieDomowe_01\\obj\\",
+        "outputPath": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_01\\ZadanieDomowe_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wikto\\AppData\\Roaming\\NuGet\\NuGet.Config",
