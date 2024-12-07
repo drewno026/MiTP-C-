@@ -23,7 +23,30 @@ namespace Lab_08
             squares = squares.Distinct().ToList();
             squares = squares.OrderBy(x => x).ToList();
             squares = squares.Select(x => x * (x - 1)).ToList();
-            foreach (int number in squares) Console.WriteLine(number);
+            //foreach (int number in squares) Console.WriteLine(number);
+            //----------------------------Zad_03----------------------------
+            Console.WriteLine("What is the average of these numbers?");
+            Console.WriteLine(Math.Round(squares.Average(), 1));
+            Console.WriteLine();
+
+            if (squares.All(number => number % 2 == 0))
+                Console.WriteLine("All numbers are even.");
+            else
+                Console.WriteLine("Not all numbers are even.");
+            Console.WriteLine();
+
+            Console.WriteLine("Is there a number divisible by 7?");
+            if (squares.Any(number => number % 7 == 0))
+                Console.WriteLine("Yes");
+            else
+                Console.WriteLine("No");
+          
+            Console.WriteLine("\nHow many numbers are divisible by seven: "+ squares.Count(number => number % 7 == 0));
+
+            Console.WriteLine("\nLast number divisible by seven: " + squares.Last(number => number % 7 == 0));
+            //----------------------------Zad_04----------------------------
+
+
         }
     }
 }

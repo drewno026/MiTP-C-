@@ -5,6 +5,12 @@
     {
       "AbsoluteMoniker": "D:0:0:{8478BF01-707A-4F70-B3A7-93EECEE0B1AB}|Lab_08\\Lab_08.csproj|c:\\users\\wikto\\onedrive\\pulpit\\metodyki i techniki programowaniac#\\githubc#\\mitp-c-\\lab_08\\lab_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8478BF01-707A-4F70-B3A7-93EECEE0B1AB}|Lab_08\\Lab_08.csproj|solutionrelative:lab_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_06\\ZadanieDomowe_06\\ZadanieDomowe_06\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_06\\Lab_06\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +20,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_06\\ZadanieDomowe_06\\ZadanieDomowe_06\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab_06\\ZadanieDomowe_06\\ZadanieDomowe_06\\Program.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_06\\ZadanieDomowe_06\\ZadanieDomowe_06\\Program.cs",
+              "RelativeToolTip": "..\\Lab_06\\ZadanieDomowe_06\\ZadanieDomowe_06\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:30:27.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_06\\Lab_06\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab_06\\Lab_06\\Program.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_06\\Lab_06\\Program.cs",
+              "RelativeToolTip": "..\\Lab_06\\Lab_06\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:30:06.402Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +56,7 @@
               "RelativeDocumentMoniker": "Lab_08\\Program.cs",
               "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_08\\Lab_08\\Program.cs",
               "RelativeToolTip": "Lab_08\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T23:19:15.393Z",
               "EditorCaption": ""
