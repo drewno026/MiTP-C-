@@ -1,4 +1,5 @@
 ﻿using System.Linq;
+using System.Runtime.InteropServices.Marshalling;
 
 namespace Lab_08
 {
@@ -45,8 +46,16 @@ namespace Lab_08
 
             Console.WriteLine("\nLast number divisible by seven: " + squares.Last(number => number % 7 == 0));
             //----------------------------Zad_04----------------------------
-
-
+            List<int> numbers2 = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+            double geomAvg = numbers2.Aggregate(1.0, (agg, x) => agg * x, ans => Math.Pow(ans, 1.0 / numbers2.Count));
+            Console.WriteLine($"\n{geomAvg:F2}\n");
+            //----------------------------Zad_05----------------------------
+            //List<int> nums = new List<int>() { 1, 2, 3, 5, 8, 13, 21 };
+            //List<string> strings = new List<string>() { "a", "b", "c" };
+            //List<string> result = nums.Zip(strings, (num, str) => (num.ToString() + "," + str)).ToList();
+            //foreach (string str in result) Console.WriteLine(str);
+            IEnumerable<string> result = squares.Zip(squares.Select(x => x % 9), (num, mod) => $"{num,6}  {mod,2}");
+            foreach (string item in result) Console.WriteLine(item);
         }
     }
 }
