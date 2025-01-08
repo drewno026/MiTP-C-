@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CA0AAB-299E-4291-AD57-B61C5DBEAE28}|Lab_10\\Lab_10.csproj|c:\\users\\wikto\\onedrive\\pulpit\\metodyki i techniki programowaniac#\\githubc#\\mitp-c-\\lab_10\\lab_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CA0AAB-299E-4291-AD57-B61C5DBEAE28}|Lab_10\\Lab_10.csproj|solutionrelative:lab_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CA0AAB-299E-4291-AD57-B61C5DBEAE28}|Lab_10\\Lab_10.csproj|c:\\users\\wikto\\onedrive\\pulpit\\metodyki i techniki programowaniac#\\githubc#\\mitp-c-\\lab_10\\lab_10\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CA0AAB-299E-4291-AD57-B61C5DBEAE28}|Lab_10\\Lab_10.csproj|solutionrelative:lab_10\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CA0AAB-299E-4291-AD57-B61C5DBEAE28}|Lab_10\\Lab_10.csproj|c:\\users\\wikto\\onedrive\\pulpit\\metodyki i techniki programowaniac#\\githubc#\\mitp-c-\\lab_10\\lab_10\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CA0AAB-299E-4291-AD57-B61C5DBEAE28}|Lab_10\\Lab_10.csproj|solutionrelative:lab_10\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CA0AAB-299E-4291-AD57-B61C5DBEAE28}|Lab_10\\Lab_10.csproj|c:\\users\\wikto\\onedrive\\pulpit\\metodyki i techniki programowaniac#\\githubc#\\mitp-c-\\lab_10\\lab_10\\treeprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CA0AAB-299E-4291-AD57-B61C5DBEAE28}|Lab_10\\Lab_10.csproj|solutionrelative:lab_10\\treeprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TreePrint.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_10\\Lab_10\\TreePrint.cs",
+              "RelativeDocumentMoniker": "Lab_10\\TreePrint.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_10\\Lab_10\\TreePrint.cs",
+              "RelativeToolTip": "Lab_10\\TreePrint.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:57:10.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_10\\Lab_10\\TreeNode.cs",
+              "RelativeDocumentMoniker": "Lab_10\\TreeNode.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_10\\Lab_10\\TreeNode.cs",
+              "RelativeToolTip": "Lab_10\\TreeNode.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:57:03.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_10\\Lab_10\\Tree.cs",
+              "RelativeDocumentMoniker": "Lab_10\\Tree.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_10\\Lab_10\\Tree.cs",
+              "RelativeToolTip": "Lab_10\\Tree.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:56:50.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_10\\Lab_10\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_10\\Program.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Metodyki i Techniki ProgramowaniaC#\\GithubC#\\MiTP-C-\\Lab_10\\Lab_10\\Program.cs",
+              "RelativeToolTip": "Lab_10\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:25:09.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
